@@ -1,0 +1,19 @@
+# macOS
+
+.Trashes/
+.Spotlight-V100/
+.DS_Store
+
+# Unity
+
+Library/
+Temp/
+obj/
+Logs/
+UserSettings/
+UIElementsSchema/
+*.sln
+.vs/
+.vsconfig
+*.csproj
+

@@ -1,0 +1,7 @@
+#HP {
+    font-size: 22px;
+    -unity-font-style: bold;
+    color: rgb(255, 255, 255);
+    -unity-text-outline-width: 1px;
+    align-items: auto;
+}
